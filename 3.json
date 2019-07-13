@@ -1,0 +1,12 @@
+{
+	"mnum" : 5,
+	"mydouble1" : 123.3332,
+	"string1" : "CSE351 String",
+	"float2d" : -145.21,
+	"b1132n1167bn" : [-712.6,523.5,12.54,-23.6],
+	"myb" : true, 
+	"strarr" : ["K","?","ff","32","aa!!?","J"],
+	"boary" : [true,false,true,false,true],
+	"s" : 32,
+	"b" : false
+}

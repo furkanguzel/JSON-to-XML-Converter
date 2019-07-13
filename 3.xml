@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object1>
+  <mnum>5</mnum>
+  <mydouble1>123.3332</mydouble1>
+  <string1>CSE351 String</string1>
+  <float2d>-145.21</float2d>
+  <b1132n1167bn>
+	<double>-712.6</double>
+    <double>523.5</double>
+    <double>12.54</double>
+    <double>-23.6</double>  
+  </b1132n1167bn>
+  <myb>true</myb>
+  <strarr>
+	<string>K</string>
+    <string>?</string>
+    <string>ff</string>
+    <string>32</string>
+    <string>aa!!?</string>
+    <string>J</string> 
+  </strarr>
+  <boary>
+	<boolean>true</boolean>
+    <boolean>false</boolean>
+    <boolean>true</boolean>
+    <boolean>false</boolean>
+    <boolean>true</boolean>
+  </boary>
+  <s>32</s>
+  <b>false</b>
+</object1>
+
